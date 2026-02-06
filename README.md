@@ -38,3 +38,8 @@ The engine uses **Genetic Programming** (via `gplearn`) to mimic biological evol
 
 ---
 *Disclaimer: This project is for educational and research purposes only. Not financial advice.*
+
+## Future Features Under Consideration
+* **Bull/Bear Split (Regime-Specific Training)**
+* **Transaction Costs**
+* **Walk-Forward Optimization**
