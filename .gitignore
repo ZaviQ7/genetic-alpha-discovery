@@ -1,0 +1,21 @@
+# Python Data Science & Venv
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+.ipynb_checkpoints/
+
+# Data Files (Too big for git)
+data/
+*.csv
+*.xls
+*.xlsx
+
+# Local Images (Optional: keep if you want to save space, remove if you want to push charts)
+# *.png
+# *.jpg
+
+# IDE settings
+.vscode/
+.idea/
